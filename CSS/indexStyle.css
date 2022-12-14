@@ -1,0 +1,33 @@
+body{
+    background-color: burlywood;
+}
+.adM{
+    text-align: center;
+}
+
+main{
+    display: flex;
+    background-color: rebeccapurple;
+    flex-direction: column;
+}
+.inps{
+    display: flex;
+    justify-content: space-between;
+}
+input {
+
+    width: 100%;
+}
+textarea{
+    width: 100%;
+}
+.topInShow{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
